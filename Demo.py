@@ -1,1 +1,1 @@
-print("No Github")
+print("Testing Git Commits for IS 303")
